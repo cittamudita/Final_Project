@@ -26,14 +26,14 @@ Attrition Rate (%)
 
 ## Exploratory Data Analysis
 #### Attrition by Job Level
-![Majority of employees in the organization are at Entry Level or Junior Level. The Highest Attrition is at the Entry Level.](https://drive.google.com/file/d/1ky_mmfpgAgPJXRkOhdJSD4DmS4f4TwnA/view?usp=sharing)
+Majority of employees in the organization are at Entry Level or Junior Level. The Highest Attrition is at the Entry Level
 
 #### Attrition by Over Time
-![Employees who overtime are more likely to  attrition compared to employees who do not overtime](https://drive.google.com/file/d/1jFeRuWX8-QAe23XjIGHdUzKVMsaCgXGz/view?usp=sharing)
+Employees who overtime are more likely to  attrition compared to employees who do not overtime
 
 #### Attrition by  Environment Satisfaction
-![Majority of employees rate organizational environment satisfaction High & Very High. However, there are still very high levels of attriton in this environment.](https://drive.google.com/file/d/1e-rDHsomZvHsvFh1TcpRLLeL-x5v8LGS/view?usp=sharing)
+Majority of employees rate organizational environment satisfaction High & Very High. However, there are still very high levels of attriton in this environment
 
 
 ## Data Preprocessing
-![Data Preprocesing Flow](https://drive.google.com/file/d/1Aevn5hzqbdn6xqys4aNoSbfkxLofGbZh/view?usp=sharing)
+Data Preprocesing Flow
