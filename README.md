@@ -26,25 +26,20 @@ Attrition Rate (%)
 
 ## Exploratory Data Analysis
 #### Attrition by Job Level
-![Majority of employees in the organization are at Entry Level or Junior Level. The Highest Attrition is at the Entry Level](https://github.com/cittamudita/Final_Project/blob/5c6e5580609060f1f63c345d5389456461d16f41/EDA%201.png)
+Majority of employees in the organization are at Entry Level or Junior Level. The Highest Attrition is at the Entry Level
+![EDA1](https://github.com/cittamudita/Final_Project/blob/5c6e5580609060f1f63c345d5389456461d16f41/EDA%201.png)
 
 #### Attrition by Over Time
 Employees who overtime are more likely to  attrition compared to employees who do not overtime
+![EDA2](https://github.com/cittamudita/Final_Project/blob/dbbe333201749b35f8f511313b42c2a29a637568/EDA%202.png)
 
 #### Attrition by  Environment Satisfaction
 Majority of employees rate organizational environment satisfaction High & Very High. However, there are still very high levels of attriton in this environment
+![EDA3](https://github.com/cittamudita/Final_Project/blob/dbbe333201749b35f8f511313b42c2a29a637568/EDA%203.png)
 
 ## Data Preprocessing
 Data Preprocesing Flow
-
- - Feature Selection
- - Feature Extraction
- - Feature Engineering
-	 - Label Encoding 
-	 - One Hot Encoding
- - Train Test Split
- - Handle Outlier in Data Train
- - Handling Imbalance Data Train
+![FLOW](https://github.com/cittamudita/Final_Project/blob/dbbe333201749b35f8f511313b42c2a29a637568/DPF.png)
 
 ##  Modeling
 
@@ -53,12 +48,16 @@ Models tested:
  - AdaBoost
  - Random Forest
  -  XGBoost
+![MC](https://github.com/cittamudita/Final_Project/blob/dbbe333201749b35f8f511313b42c2a29a637568/MC.jpeg)
 
 After Hyperparameter tuning, the model with the highest Recall and fairly high accuracy is XGBOOST. Recall measures the ratio between the number of employees that are predicted to leave who actually leave the company, and the number of employees that are predicted to stay but actually end up leaving the company. Maximizing recall means minimizing the number of employees falsely predicted to stay.
+
+![CM](https://github.com/cittamudita/Final_Project/blob/dbbe333201749b35f8f511313b42c2a29a637568/CM.jpeg)
 
 
 ## Feature Importance
 Based on the feature importance plot, it can be determined that the most influential features on the model are JobLevel, Overtime, and Environment Satisfaction.
+![FM](https://github.com/cittamudita/Final_Project/blob/dbbe333201749b35f8f511313b42c2a29a637568/FM.jpeg)
 
 ##  Recommendation
 ###  Recommendation HR
@@ -88,3 +87,8 @@ The number of employees experiencing attrition decreased by 90 after the model, 
 Before the model, the attrition rate was 16.1%, and it decreased by 6.1% after the model, resulting in an attrition rate of 10%.
 
 Therefore, before the model, the company incurred a recruitment cost of USD 978,573. After the model, this cost decreased to USD 606,963, resulting in a cost saving of USD 371,610 for the company.
+![BI1](https://github.com/cittamudita/Final_Project/blob/dbbe333201749b35f8f511313b42c2a29a637568/BI_1.jpeg)
+![BI2](https://github.com/cittamudita/Final_Project/blob/dbbe333201749b35f8f511313b42c2a29a637568/BI_2.jpeg)
+
+## Summary
+![Summary](https://github.com/cittamudita/Final_Project/blob/dbbe333201749b35f8f511313b42c2a29a637568/Summary.png)
