@@ -26,7 +26,7 @@ Attrition Rate (%)
 
 ## Exploratory Data Analysis
 #### Attrition by Job Level
-Majority of employees in the organization are at Entry Level or Junior Level. The Highest Attrition is at the Entry Level
+![Majority of employees in the organization are at Entry Level or Junior Level. The Highest Attrition is at the Entry Level](https://github.com/cittamudita/Final_Project/blob/5c6e5580609060f1f63c345d5389456461d16f41/EDA%201.png)
 
 #### Attrition by Over Time
 Employees who overtime are more likely to  attrition compared to employees who do not overtime
